@@ -1,0 +1,9 @@
+*.pickle
+*.db
+*.txt
+*.csv
+*.json
+*.lnk
+概念辞書/csv
+概念辞書/result
+概念辞書/新聞
